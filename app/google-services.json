@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790089916427",
+    "firebase_url": "https://fitbook-27d48.firebaseio.com",
+    "project_id": "fitbook-27d48",
+    "storage_bucket": "fitbook-27d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790089916427:android:6d305e88a03f625505a70e",
+        "android_client_info": {
+          "package_name": "com.example.fitbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790089916427-j35soo0fe6mjabcmm3qp0hselmn4s6d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgDSb-Npbk5JuNmMOtad3lWSSI1xcvu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790089916427-j35soo0fe6mjabcmm3qp0hselmn4s6d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

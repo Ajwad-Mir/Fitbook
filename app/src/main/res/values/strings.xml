@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Fitbook</string>
+    <string name="log_in">Log In</string>
+    <string name="don_t_have_account_sign_up">Don\'t have account? Sign Up</string>
+    <string name="register_new_account">Register new account</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_my_password">Forgot my password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="exercises">Exercises</string>
+    <string name="community">Community</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">About Us</string>
+    <string name="music_player">Music Player</string>
+    <string name="about_us_description">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pretium pretium enim, a tristique odio euismod at.
+Vestibulum quis orci sed ex rhoncus accumsan quis in velit. Maecenas sit amet dui nec nisi lacinia varius.
+Nullam et est nec sem condimentum posuere. Nullam iaculis magna mi, quis condimentum sapien bibendum quis.
+Duis et venenatis felis, congue rutrum mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Duis fringilla magna nibh. Maecenas urna dui, tempor sit amet tincidunt at, venenatis ac nunc.
+Vestibulum porta purus id metus iaculis, ac tempus ante ornare. Mauris fringilla tellus diam, at viverra metus accumsan ut.
+Morbi molestie tellus sed massa vestibulum, a consequat velit rhoncus.
+Pellentesque lacinia nisi ut purus bibendum, ac ultrices diam pulvinar.
+Pellentesque tincidunt, nibh at scelerisque rhoncus, sapien tortor malesuada dolor, et rutrum quam mi id arcu.
+Aliquam mauris ex, dictum ac volutpat in, interdum sed augue.
+Duis sit amet sem non felis mollis fringilla vitae ut libero.
+Integer ligula neque, tristique sed quam ac, interdum fringilla turpis.
+Cras semper odio in turpis mattis sollicitudin. Proin odio metus, scelerisque ac elit id, euismod viverra massa.
+Cras ut venenatis nibh, at fringilla odio. Aenean laoreet arcu a diam ultrices, non ornare libero malesuada.
+Curabitur molestie faucibus elit vel pulvinar. Aenean eu sem feugiat ex posuere efficitur.
+Mauris ut dui pulvinar, consectetur mauris condimentum, euismod lorem. Vivamus mollis consectetur euismod.
+Sed eget ipsum lobortis, rhoncus ipsum vitae, mollis sapien. Curabitur ac venenatis odio, eget pharetra arcu.
+Quisque semper sit amet elit quis molestie. Mauris pulvinar massa orci, vel scelerisque augue egestas eu.
+Etiam efficitur ante vitae mauris efficitur, a porttitor ex gravida. Nam non molestie nulla, ac blandit sapien.
+Aliquam aliquet ac ex sit amet faucibus.
+Integer faucibus, orci in iaculis pellentesque, turpis ex rutrum leo, sed cursus purus dolor vel velit.
+Aliquam eu massa at augue rhoncus hendrerit. Aliquam consectetur ipsum id lobortis suscipit.
+Pellentesque et odio vitae quam venenatis molestie in et libero. Nam sapien lorem, cursus quis molestie et, aliquet a nibh.
+Duis placerat blandit auctor. Duis sit amet lorem ac justo imperdiet iaculis.
+Donec mattis, neque non varius aliquam, odio neque aliquet ex, eu ultrices ipsum arcu at enim.
+Nam finibus porttitor dictum. Nullam accumsan tempus augue, quis sodales nulla laoreet quis.
+Duis elementum consequat leo et fringilla. Nunc non est vel nisi rutrum rhoncus. Maecenas aliquam pharetra massa euismod ultrices.
+Fusce ultricies dui nec consequat euismod. Sed nec nisi quis nibh semper facilisis in in elit. Ut a ultrices enim, sed fringilla felis.
+Proin non lacus ut ante luctus gravida id in purus. Nulla venenatis convallis purus et dictum.
+Aenean et fringilla nisi, at porta tortor. Curabitur mattis porttitor turpis quis gravida.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a orci tempor, semper purus vitae, tempus dolor.
+Donec tellus nunc, ultrices a aliquam nec, lobortis eget urna. Nam eros augue, posuere id facilisis eu, accumsan ac mi.
+Duis eros ex, fermentum eget lectus sit amet, suscipit accumsan sem. Ut ut efficitur velit. Integer et neque risus.
+Nulla nec tellus ultrices, rutrum nunc a, gravida lorem. Nunc felis leo, lacinia id ex at, laoreet imperdiet est.
+Etiam ut lorem fermentum, pellentesque massa at, aliquet libero. Cras vestibulum finibus sapien, eget elementum massa interdum quis.
+Donec consequat, nulla condimentum suscipit efficitur, lectus risus porta diam, eget malesuada urna metus sit amet eros.</string>
+    <string name="AjwadImg">TODO</string>
+    <string name="FaizanImg">TODO</string>
+    <string name="ajwad_mir">Ajwad Mir</string>
+    <string name="faizan_tanveer">Faizan Tanveer</string>
+    <string name="SongImg">Song Image</string>
+    <string name="Album_image">Album_image</string>
+    <string name="PlayButton">PlayButton</string>
+    <string name="StopButton">StopButton</string>
+    <string name="PauseButton">PauseButton</string>
+    <string name="song_name">song name</string>
+    <string name="AlbumArt">TODO</string>
+    <string name="PreviousButton">PreviousButton</string>
+    <string name="NextButton">NextButton</string>
+    <string name="Pause">Pause</string>
+    <string name="Next">Next</string>
+    <string name="Prev">Prev</string>
+</resources>
