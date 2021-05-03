@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shoes_brand">
+        <item>Select brand</item>
+        <item>Adidas</item>
+        <item>Nike</item>
+        <item>Asics</item>
+        <item>Reebok</item>
+        <item>Puma</item>
+        <item>Power</item>
+        <item>Hoka One One</item>
+        <item>Altra Footwear</item>
+        <item>Newton Running</item>
+        <item>Brooks</item>
+        <item>Under Armour</item>
+        <item>Others</item>
+    </string-array>
+</resources>

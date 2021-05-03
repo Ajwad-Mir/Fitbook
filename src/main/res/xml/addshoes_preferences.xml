@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="New Shoe Creation">
+        <EditTextPreference
+            android:defaultValue="false"
+            android:key="@string/shoe_name"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:summary="Enter your Shoe Name"
+            android:title="Shoe Name" />
+        <ListPreference
+            android:defaultValue="false"
+            android:entries="@array/shoes_brand"
+            android:entryValues="@array/shoes_brand"
+            android:key="list_preference_1"
+            android:summary="Select the brand of your shoe"
+            android:title="Shoes Brand" />
+    </PreferenceCategory>
+</PreferenceScreen>
