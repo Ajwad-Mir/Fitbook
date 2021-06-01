@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Homepage">
+
+    <Button
+        android:id="@+id/MusicPlayerBtn"
+        android:layout_width="393dp"
+        android:layout_height="wrap_content"
+        android:text="@string/music_player"
+        app:layout_constraintBottom_toTopOf="@+id/RoutesBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/RoutesBtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/routes"
+        app:layout_constraintBottom_toTopOf="@+id/ExercisesBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/MusicPlayerBtn" />
+
+    <Button
+        android:id="@+id/ExercisesBtn"
+        android:layout_width="393dp"
+        android:layout_height="wrap_content"
+        android:text="@string/exercises"
+        app:layout_constraintBottom_toTopOf="@+id/DietsBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/RoutesBtn" />
+
+    <Button
+        android:id="@+id/DietsBtn"
+        android:layout_width="393dp"
+        android:layout_height="wrap_content"
+        android:text="@string/diets"
+        app:layout_constraintBottom_toTopOf="@+id/LeaderboardBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ExercisesBtn" />
+
+    <Button
+        android:id="@+id/LeaderboardBtn"
+        android:layout_width="393dp"
+        android:layout_height="wrap_content"
+        android:text="@string/leaderBoard"
+        app:layout_constraintBottom_toTopOf="@+id/AboutUsBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/DietsBtn" />
+
+    <Button
+        android:id="@+id/AboutUsBtn"
+        android:layout_width="393dp"
+        android:layout_height="wrap_content"
+        android:text="@string/about_us"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/LeaderboardBtn" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

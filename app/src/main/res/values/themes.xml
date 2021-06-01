@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.Fitbook.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Fitbook.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Fitbook.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

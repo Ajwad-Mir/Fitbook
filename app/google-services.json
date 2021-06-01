@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154063374810",
+    "project_id": "fyp-fitbook",
+    "storage_bucket": "fyp-fitbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154063374810:android:61e80b4a8e33749f8318e3",
+        "android_client_info": {
+          "package_name": "com.example.fitbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154063374810-au6r2otmrhe6p94ud7fp6l62v5h6fsuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMWOSTK95h8VENCkUKwEc1Y_MNTih28M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154063374810-au6r2otmrhe6p94ud7fp6l62v5h6fsuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
